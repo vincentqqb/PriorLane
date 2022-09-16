@@ -1,0 +1,16 @@
+setup.py
+/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/vision.cpp
+/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cpu/ActiveRotatingFilter_cpu.cpp
+/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cpu/RotationInvariantEncoding_cpu.cpp
+/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cuda/ActiveRotatingFilter_cuda.cu
+/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cuda/RotationInvariantEncoding_cuda.cu
+functions/__init__.py
+functions/active_rotating_filter.py
+functions/rotation_invariant_encoding.py
+functions/rotation_invariant_pooling.py
+modules/ORConv.py
+modules/__init__.py
+orn_cuda.egg-info/PKG-INFO
+orn_cuda.egg-info/SOURCES.txt
+orn_cuda.egg-info/dependency_links.txt
+orn_cuda.egg-info/top_level.txt

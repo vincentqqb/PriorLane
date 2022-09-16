@@ -1,0 +1,6 @@
+# ninja log v5
+1	7991	1653966822276633315	/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/build/temp.linux-x86_64-3.7/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cpu/RotationInvariantEncoding_cpu.o	76758b6ec9658e16
+1	8098	1653966822380636082	/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/build/temp.linux-x86_64-3.7/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cpu/ActiveRotatingFilter_cpu.o	a2a706db1ba7195e
+2	16403	1653966830684855257	/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/build/temp.linux-x86_64-3.7/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cuda/ActiveRotatingFilter_cuda.o	5441ca48bf295005
+2	16551	1653966830832859132	/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/build/temp.linux-x86_64-3.7/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/cuda/RotationInvariantEncoding_cuda.o	ad5b8475a7d5fa8a
+1	20138	1653966834416952561	/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/build/temp.linux-x86_64-3.7/home/zjlab/qiuqibo/code/maplane_vt/mmseg/models/orn/src/vision.o	23b069c301a094d9
