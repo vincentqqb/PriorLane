@@ -1,5 +1,5 @@
 
-This repository is the official Pytorch implementation of [PriorLane](https://arxiv.org/abs/2209.06994).
+This repository is the official Pytorch implementation of our paper [PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer (ICRA 2023)](https://arxiv.org/abs/2209.06994).
 <div  align="center">   
  <img src="./resources/priorlane.png" width = "720" height = "250"/>
 </div>
@@ -66,7 +66,7 @@ For CULane, prepare the data like this:
 ```
 <!-- The existence of lane markings are labelled on the two famous benchmarks, which will be used in our model. -->
 ### Custom data with prior knowledge
-Prepare your lane detection datas with prior knowledge as follows:
+The Zjlab dataset is not allowed open source according to laboratory policy. Prepare your own lane detection dataset with prior knowledge as follows:
 ```
 ├── Custom data with prior knowledge
 │   ├── imgs
